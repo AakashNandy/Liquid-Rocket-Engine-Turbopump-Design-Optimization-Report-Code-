@@ -1,8 +1,11 @@
+This project is not in its final state.
+
+
 ### **Project Overview & Executive Summary**
 
 This project establishes an automated Model-Based Systems Engineering (MBSE) and Multidisciplinary Design Optimization (MDO) pipeline for a high-pressure, liquid oxygen (LOX) rocket engine turbopump stage. The architecture closes the loop between first-principles analytical sizing, automated heuristic optimization, 3D parametric computer-aided design (CAD), and multi-domain Navier-Stokes computational fluid dynamics (CFD) within an integrated ANSYS Workbench environment. 
 
-Read through the PowerPoint presentation titled "Report.pptx" to get more detailed information than what is written in this description and links to other files produced while working on this project.
+Read through the PowerPoint presentation titled "Report.pptx" to get more detailed information than what is written in this description and links to other files produced while working on this project. For the intended experience, please download the presentation and open it in the PowerPoint application. 
 
 ---
 
